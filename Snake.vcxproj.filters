@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuScene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameScene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Tile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Map.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SpecialFood.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="InfoScene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuScene.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameScene.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Tile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Map.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SpecialFood.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="InfoScene.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\External\Resources\Maps\map1.ini">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\External\Resources\Maps\map2.ini">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\External\Resources\Maps\map3.ini">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\External\Resources\Maps\map4.ini">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\External\Resources\Maps\map5.ini">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\External\Resources\Maps\map6.ini">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\External\Resources\Maps\map7.ini">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\External\Resources\Maps\map8.ini">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\External\Resources\Maps\map9.ini">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\External\Resources\Maps\map10.ini">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\External\Resources\Maps\map11.ini">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\External\Resources\Maps\map12.ini">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\External\Resources\Maps\map13.ini">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\External\Resources\Maps\map14.ini">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\External\Resources\Maps\map15.ini">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\External\Resources\Maps\map16.ini">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\External\Resources\Maps\map17.ini">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\External\Resources\Maps\map18.ini">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\External\Resources\Maps\map20.ini">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\External\Resources\Maps\map21.ini">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\External\Resources\Maps\map22.ini">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\External\Resources\Maps\map23.ini">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\External\Resources\Maps\map24.ini">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\External\Resources\Maps\map25.ini">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\External\Resources\Maps\map26.ini">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\External\Resources\Maps\map27.ini">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\External\Resources\Maps\map28.ini">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\External\Resources\Maps\map29.ini">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\External\Resources\Maps\map19.ini">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="..\External\Resources\Maps\map30.ini">
+      <Filter>Resource Files</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
